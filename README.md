@@ -3,9 +3,7 @@
 A digital companion to the preprint 
 
 ```
-Alona Zharova and Antonia Scherz (2022). 
-Multistep Multiappliance Load Prediction.
-arXiv preprint.
+[TBA]
 ```
 
 ## Summary 
